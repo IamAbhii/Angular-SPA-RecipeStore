@@ -1,0 +1,4 @@
+-To make normal class a angular component You need decorator like "@component" 
+-When we create new component we need to let angular know that we created new component so we need to
+ add it in main app module.ts in @ngModule decorator so to register it we need to add it into declaration 
+ and import that class.
